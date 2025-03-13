@@ -20,7 +20,7 @@
   "list": "List",
   "selected": "Selected",
   "noProjectSelected": "No project selected.",
-  "noUserAssignedTicket": "No user assigned to ticket. E-Mail not documented. Create new ticket from e-mail...",
+  "noUserAssignedTicket": "No user assigned to ticket or ticket is locked. E-Mail will not be documented.",
   "selectProject": "Please select a project.",
   "LC53516": "Select a database",
   "LC53493": "Please select an entry",
@@ -212,8 +212,8 @@
   "SelectDatabase": "Select Database",
   "contacts": "Contact-Databases",
   "projects": "Project-Databases",
-  "addLinkToMail": "Add hyperlink(s) into body",
-  "addLinkTextToMail": "Add hyperlink into body",
+  "addLinkToMail": "Add hyperlink(s)",
+  "addLinkTextToMail": "Add hyperlink",
   "removeFromList": "Remove from list",
   "activateLinkOption": "Add hyperlinks into body",
   "documentButtonTooltipOff": "Please select destination document",
@@ -226,5 +226,6 @@
   "loaded": "Loaded: ",
   "noFooterInfoAvailableManualDataNeeded": "No address data received from mail footer, please insert data manually.",
   "dismissMessage": "OK",
-  "notConnected": "disconnected"
+  "notConnected": "disconnected",
+  "grapherror": "Microsoft Graph not connected."
 }
