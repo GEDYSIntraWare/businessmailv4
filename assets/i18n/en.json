@@ -227,5 +227,6 @@
   "noFooterInfoAvailableManualDataNeeded": "No address data received from mail footer, please insert data manually.",
   "dismissMessage": "OK",
   "notConnected": "disconnected",
-  "grapherror": "Microsoft Graph not connected."
+  "grapherror": "Microsoft Graph not connected.",
+  "deleteOnSend": "Delete e-mail after documenting"
 }
