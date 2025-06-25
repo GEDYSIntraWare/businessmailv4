@@ -4,14 +4,14 @@
   xmlns:bt="http://schemas.microsoft.com/office/officeappbasictypes/1.0"
   xmlns:mailappor="http://schemas.microsoft.com/office/mailappversionoverrides/1.0" xsi:type="MailApp">
   <Id>83d64bdb-0712-4d46-85f1-f397440fd756</Id>
-  <Version>4.0.0.0</Version>
+  <Version>4.0.7</Version>
   <ProviderName>GEDYS IntraWare</ProviderName>
   <DefaultLocale>de-DE</DefaultLocale>
   <DisplayName DefaultValue="Business Mail"/>
   <Description DefaultValue="Business Mail for Outlook Web App by GEDYS IntraWare GmbH."/>
   <IconUrl DefaultValue="https://gomobile.gedys-intraware.de/businessmailv4/assets/gi_logo_64.png"/>
   <HighResolutionIconUrl DefaultValue="https://gomobile.gedys-intraware.de/businessmailv4/assets/gi_logo_128.png"/>
-  <SupportUrl DefaultValue="https://www.gedys-intraware.de"/>
+  <SupportUrl DefaultValue="https://www.gedys.com"/>
   <AppDomains>
     <AppDomain>https://www.gedys-intraware.de</AppDomain>
   </AppDomains>
